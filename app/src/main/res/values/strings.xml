@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GG Login</string>
+    <string name="hello_welcome_back">Hello, Welcome Back</string>
+    <string name="please_login_to_continue">Please Login To Continue</string>
+    <string name="logout" />
+    <string name="you_have_successfully_logged_into_your_account">You have Successfully logged into your account</string>
+    <string name="logout1">Logout</string>
+</resources>
